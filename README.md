@@ -3,7 +3,7 @@
   Predicting the <strong>future value of a customer</strong> to a business over the entire duration of their relationship, incorporating factors such as <em>past purchase history</em>, <em>purchase frequency</em>, and <em>customer demographics</em>.
 </p>
 
-<h2">📄 Dataset Info</h2>
+<h2>📄 Dataset Info</h2>
 <p style="font-size: 15px;">
   The dataset is in <strong>.xlsx</strong> format and contains <strong>two sheets</strong> with identical fields.
 </p>
